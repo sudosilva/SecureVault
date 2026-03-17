@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🔒 SecureVault
-### *Military-Grade Privacy. Glassmorphism Aesthetics.*
+
 
 [![Python](https://img.shields.io/badge/Python-3.14%2B-blue?logo=python&logoColor=white)](https://www.python.org)
 [![License: Custom](https://img.shields.io/badge/License-SudoSilva-orange.svg)](LICENSE)
